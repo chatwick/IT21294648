@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IT21294648
-- 👀 I don't know what I'm interested in.
-- 🌱 I’m also currently learning.
+- 👀 Currently learning.
+- 
 
 <!---
 IT21294648/IT21294648 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
