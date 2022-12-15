@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IT21294648
+- 👋 Hi, I’m Chathupa
 - 👀 Currently learning.
 - 
 
